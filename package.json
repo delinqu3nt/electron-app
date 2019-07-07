@@ -1,0 +1,19 @@
+{
+  "name": "test-app",
+  "version": "0.0.1",
+  "description": "testing app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delinqu3nt/electron-app.git"
+  },
+  "author": "Toby Bartholovitsch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/delinqu3nt/electron-app/issues"
+  },
+  "homepage": "https://github.com/delinqu3nt/electron-app#readme"
+}
